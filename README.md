@@ -1,9 +1,6 @@
 # SCM
 Logiciel permettant la simulation de construction moléculaire. C#, Unity 3D.
 
-=====================
-
-SCM Copyright� 2020 by L3AK2. All rights reserved.
 
 Link to download the application : https://www.mediafire.com/file/5cv7q8nth0tnupe/SCM_setup_v3.exe/file
 
@@ -24,4 +21,5 @@ For more information on the program you can contact the developers.
 
 Rida Halimaoui: ridahalimaoui@gmail.com  /  Yassine : yasss.bel@gmail.com 
 
-======================
+SCM Copyright� 2020 by RY. All rights reserved.
+
