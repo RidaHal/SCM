@@ -19,7 +19,7 @@ During a simulation, if several characteristic groups are checked then all the s
 Please select a grouping according to the desired molecule, the alcohols are processed automatically.
 For more information on the program you can contact the developers.
 
-Rida Halimaoui: ridahalimaoui@gmail.com  /  Yassine : yasss.bel@gmail.com 
+Rida Halimaoui: ridahalimaoui@gmail.com  /  Yassine Belmekki : ybelmekki@outlook.fr 
 
 
 
