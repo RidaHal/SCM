@@ -1,5 +1,5 @@
 # SCM
-Logiciel permettant la simulation de construction moléculaire sous Windows. C#, Unity 3D.
+Logiciel permettant la simulation de construction moléculaire sous Windows. Unity 3D.
 
 
 Link to download the application : https://www.mediafire.com/file/5cv7q8nth0tnupe/SCM_setup_v3.exe/file
