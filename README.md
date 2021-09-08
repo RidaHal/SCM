@@ -24,5 +24,4 @@ Rida Halimaoui: ridahalimaoui@gmail.com  /  Yassine Belmekki : ybelmekki@outlook
 
 
 
-SCM Copyright� 2020 by RY. All rights reserved.
 
